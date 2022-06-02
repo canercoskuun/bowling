@@ -10,8 +10,6 @@ void main(void)
 	int size = 3, i, j, upper = 10, lower = 0, a, c, x = 0;
 	M[3][1] = 0, N[3][1] = 0;
 	srand(time(NULL));
-	printf("Caner Coskun 152120201043 canercoskun51@gmail.com\n");
-	printf("152111019 INTRODUCTION TO PROGRAMMING FINAL EXAM\n");
 	for (i = 0; i < size; i++)
 	{
 		for (j = 0; j < size; j++)
